@@ -501,7 +501,7 @@ do
     end)
 
     MenuGroup:AddLabel("Menu bind"):AddKeyPicker("MenuKeybind", {
-        Default = "End",
+        Default = "back",
         NoUI = true,
         Text = "Menu keybind"
     })
