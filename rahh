@@ -19,7 +19,7 @@ local Teams = game:GetService("Teams")
 
 -- // Initialising the UI
 local Window = Library:CreateWindow({
-    Title = "Aegians & Male",
+    Title = "github.com/Aegians,Male",
     Center = true,
     AutoShow = true
 })
